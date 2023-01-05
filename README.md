@@ -11,7 +11,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 This challenge was proposed as an exercise during DevQuest classes in order to build this application using the Advice API.
 ________________________________________________
 
-## Índice (Table of contents)
+### Índice (Table of contents)
 
 - [O desafio](#o-desafio) ([The challenge](#the-challenge))
 - [Captura de tela](#captura-de-tela-screenshot) ([Screenshot](#captura-de-tela-screenshot))
@@ -46,8 +46,8 @@ __________________________________________________
 
 ### Links
 
-- [Solução (Solution)](https://your-solution-url.com)
-- [GitHub Pages](https://your-live-site-url.com)
+- [Solução (Solution)](https://github.com/flaviafigueredo/advice-generator-app)
+- [GitHub Pages](https://flaviafigueredo.github.io/advice-generator-app/)
 __________________________________________________
 
 ### Construído com (Built with)
@@ -58,7 +58,7 @@ __________________________________________________
 - API
 __________________________________________________
 
-## Autora (Author)
+### Autora (Author)
 
 - Portfólio - [Flávia Figueredo](https://flaviafigueredo.github.io/mini-portfolio/)
 - GitHub - [@flaviafigueredo](https://github.com/flaviafigueredo)
