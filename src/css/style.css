@@ -1,0 +1,70 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    background-color: hsl(218, 23%, 16%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.advice-card {
+    background-color: hsl(217, 19%, 24%);
+    width: 430px;
+    height: 265px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    position: relative;
+}
+
+.advice-card .advice-title {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 12px;
+    color: hsl(150, 100%, 66%);
+    position: absolute;
+    top: 30px;
+}
+
+.advice-card .advice-text {
+    width: 70%;
+    font-size: 20px;
+    color: hsl(193, 38%, 86%);
+    text-align: center;
+}
+
+.advice-card .pattern-divider {
+    width: 70%;
+    position: absolute;
+    bottom: 50px;
+}
+
+.advice-card .icon-dice {
+    background-color: hsl(150, 100%, 66%);
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    position: absolute;
+    bottom: -25px;
+}
+
+.advice-card .icon-dice:hover {
+    box-shadow: 0 0 50px 2px hsl(150, 100%, 66%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 80px;
+    color: hsl(193, 38%, 86%);
+}
+
+.attribution a {
+    color: hsl(150, 100%, 66%);
+}

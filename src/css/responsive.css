@@ -1,0 +1,30 @@
+@media(max-width: 414px) {
+    .advice-card {
+        width: 390px;
+        height: 300px;
+    }
+}
+
+@media(max-width: 393px) {
+    .advice-card {
+        width: 370px;
+    }
+}
+
+@media(max-width: 375px) {
+    .advice-card {
+        width: 350px;
+    }
+}
+
+@media(max-width: 360px) {
+    .advice-card {
+        width: 340px;
+    }
+}
+
+@media(max-width: 320px) {
+    .advice-card {
+        width: 300px;
+    }
+}
